@@ -1,2 +1,1 @@
-# MatterJSBoilerPlate
-MatterJSBoilerPlate
+# Throw in dustbin
